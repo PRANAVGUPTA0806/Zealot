@@ -3,6 +3,7 @@ body{
 	font-family: sans-serif;
 	margin:0;
 	line-height: 1.5;
+	overflow: hidden;
 }
 .bgimge{
 position:absolute;
@@ -11,6 +12,8 @@ width:1529px;
   opacity:50%;
 background-color:red;
 background-size:contain;
+
+
 }
 
 *{
