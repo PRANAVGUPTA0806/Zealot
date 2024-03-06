@@ -15,16 +15,20 @@ header {
     margin: 0 auto;
     padding: 0 20px; /* Added padding for better spacing */
 }
-
+.aa{
+    float: left;
+    margin-top: 4%;
+    margin-left: 0%;
+}
 .nav-list {
     float: right;
     margin-top: 60px;
-    padding: 0; /* Removed default padding */
+   padding: 0; /* Removed default padding */
 }
 
 /* for nav-list */
 .nav-list li {
-    display: inline-block;
+    display: inline-block; 
     list-style: none;
     margin-left: 20px; /* Adjusted margin */
 }
