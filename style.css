@@ -45,13 +45,13 @@
     padding: 6px 10px;
     border: none;
     border-radius: 20px;
-    background-color: #4CAF50;
+    background-color: #1b00b6;
     color: white;
     cursor: pointer;
 }
 
 .search-container button:hover {
-    background: #45a049;
+    background: #0077B6;
 }
 a{     
     background-color: #05204A;
